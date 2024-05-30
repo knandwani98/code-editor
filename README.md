@@ -1,7 +1,3 @@
-## Demo
-
-https://knandwani98.github.io/code-editor/
-
 ## 🛠 Tech Stack
 
 React, HTML, CSS, SCSS...
